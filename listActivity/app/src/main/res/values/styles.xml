@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This whole .xml just exist to make the buttons circular so that it looks like the one on Teams-->
+<resources>
+    <style name="CircleFab" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
